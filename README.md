@@ -19,7 +19,7 @@ git clone https://github.com/funbyplayz-ctrl/mcpanelv1
 
 ```sh
 unzip mcpanelv1.zip
-cd mcpanelv1/workspace
+cd mcpanelv1/panel
 ```
 
 **2. List files**
