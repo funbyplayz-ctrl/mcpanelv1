@@ -30,7 +30,7 @@ ls
 **3. Install node dependencies**
 
 ```sh
-npm i
+apt install npm && npm i
 ```
 
 **4. Select Java runtime**
