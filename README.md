@@ -53,11 +53,9 @@ node .
 **Install Temurin JRE**
 
 ```sh
-# macOS
+# macOS or linux
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew install --cask temurin
 ```
-
-Or download from [adoptium.net/releases](https://adoptium.net/releases/)
-
 ---
 
