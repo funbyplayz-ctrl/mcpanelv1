@@ -18,9 +18,7 @@ git clone https://github.com/funbyplayz-ctrl/mcpanelv1
 **1. Unzip the archive**
 
 ```sh
-apt install unzip
-unzip mcpanelv1.zip
-cd mcpanelv1/panel
+apt install unzip && unzip mcpanelv1.zip && cd mcpanelv1/panel
 ```
 
 **2. List files**
