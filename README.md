@@ -8,7 +8,7 @@ minecraft control panel — setup guide
 
 ```sh
 sudo su
-bash <(curl -s https://github.com/funbyplayz-ctrl/mcpanelv1)
+git clone https://github.com/funbyplayz-ctrl/mcpanelv1)
 ```
 
 ---
